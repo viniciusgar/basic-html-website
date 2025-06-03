@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contato</title>
+</head>
+
+<body>
+    <h1> Voce esta na pagina contatos </h1>
+
+ <nav>
+    <ul >
+        <li><a href="index.html">Pagina Principal </li></a>
+        <li><a href="projetos.html">projetos </li></a>
+        <li><a href="artigos.html">Artigos </li></a>
+         <li><a href="contatos.html">Contatos </li></a>
+    </ul>
+</nav>
+
+    <p>Whatzapp (12) 1221-1234</p>
+    <p>facebook</p>
+    <p>Instagram</p>
+    <p>LinkedIn</p>
+
+<form>
+    <label >Nome</label>
+    <input type="text"><br>
+
+    <label>Email</Label>
+    <input type="text">
+
+    <Label>mensagem</Label>
+    <input type="textarea">
+</form>
+
+<footer>todos os direitos reservados</footer>
+</body>
+
+</html>
