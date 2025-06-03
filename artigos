@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Artigos</title>
+</head>
+
+<body>
+    <h1> Voce esta na paina de artigos</h1>
+   
+    <nav>
+    <ul >
+        <li><a href="index.html">Pagina Principal </li></a>
+        <li><a href="projetos.html">projetos </li></a>
+        <li><a href="artigos.html">Artigos </li></a>
+         <li><a href="contatos.html">Contatos </li></a>
+    </ul>
+</nav>
+    
+    <h3>Artigo 1</h3>
+    <p>Lorem ipsum dolor sit amet
+         consectetur adipisicing elit.
+         Unde quisquam commodi veniam
+         illum corrupti doloribus possimus
+         quibusdam error, ipsum neque
+         necessitatibus. Provident eos
+         assumenda modi incidunt natus
+         dolores magni ea.
+         </p>
+<h3>Artigo 1</h3>
+    <p>Lorem ipsum dolor sit amet
+        consectetur adipisicing elit.
+        Unde quisquam commodi veniam 
+        illum corrupti doloribus possimus
+        quibusdam error, ipsum neque
+        necessitatibus. Provident eos 
+        assumenda modi incidunt natus
+        dolores magni ea.
+         </p>
+
+
+
+
+<footer>Todos os direitos reservados 
+
+</footer>
+
+</body>
+
+</html>
