@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Projetos</title>
+</head>
+
+<body>
+    
+    <h1> Voce esta na pagina projetos </h1>
+
+   <nav>
+    <ul >
+        <li><a href="index.html">Pagina Principal </li></a>
+        <li><a href="projetos.html">projetos </li></a>
+        <li><a href="artigos.html">Artigos </li></a>
+         <li><a href="contatos.html">Contatos </li></a>
+    </ul>
+</nav>
+<ul>HTML apenas portfolio
+    <li>projeto 1</li>
+    <li>projeto 2</li>
+</ul>
+    <p></p>
+    <p>Calculadora</p>
+    <p>Quiz app</p>
+    <p>Contador regressivo</p>
+    <p>Produtos proximos</p>
+    
+
+<footer>
+    todos os direitos reservados
+</footer>
+
+
+</body>
+
+</html>
